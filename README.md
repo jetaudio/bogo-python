@@ -5,6 +5,7 @@ BoGo
 [![Coverage Status](https://coveralls.io/repos/BoGoEngine/bogo-python/badge.png?branch=master)](https://coveralls.io/r/BoGoEngine/bogo-python?branch=master)
 
 BoGo is a Vietnamese input method conversion library for Python.
+This fork fixes error when process sequence like 'QUTW' and 'puxw'
 
 Installation
 ------------
